@@ -1,7 +1,38 @@
 # PSA UniMAIWP: Instagram Story Content Bank 2026/27
 
 Wednesday **Midweek Brain Check** and Saturday **Weekend Pharmacy Quiz** Stories.
-Status: **Phase 3 (sample approval)**. Five templates and five sample question + reveal pairs are built in Canva and waiting for approval. All 100 content units are drafted in the tracker but **not yet designed**. Mass production starts only after the visual direction is approved.
+Status: **Phase 4 complete. All 100 content units are designed in Canva** (200 Story pages: one question + one reveal per unit), filed into category folders, and linked from the tracker. The next step is pharmacist/lecturer sign-off; 21 units carry a review flag.
+
+## Canva folders
+
+Project folder **PSA Story Content Bank 2026-27**: https://www.canva.com/folder/FAHaEedAlFM
+
+| Folder | Contents |
+|---|---|
+| 00_Masters_and_Samples | Approved sample set + the 4 autofill masters (M1, M3, M4, M5) |
+| 01_Medicine_Knowledge | A01-A20 (20 designs, 2 pages each) |
+| 02_Pharmacy_Myths | B01-B20 |
+| 03_Everyday_Pharmacy | C01-C20 |
+| 04_Student_Engagement | D01-D20 |
+| 05_Public_Health | E01-E20 |
+
+Each unit is its own 2-page design named with its export filename stem (e.g. `PSA_STORY_014_A14_ASPIRIN_WILLOW`). Page 1 is the question, page 2 is the reveal. Download as PNG and both files come out together; or click **Animate** and download as MP4.
+
+A design titled `OLD TEST - superseded A03 (safe to delete)` sits in the Canva root. It was the first autofill test and can be deleted.
+
+## How production works (for future units)
+
+1. Add the unit to `tools/content_units.py` (long-form) and `tools/canva_copy.py` (short on-slide copy + master).
+2. Run `python3 content-bank/tools/build_payloads.py`. It checks every field against the text-box limits and writes `tools/autofill_payloads.json`.
+3. In Canva, autofill the master design with that payload (Claude does this with the Canva connector), then file it in the category folder.
+4. Log the new design in `tools/produced_designs.csv` and run `build_tracker.py`.
+
+| Master | Design ID | Used for |
+|---|---|---|
+| M1 | DAHaEBS38Xw | Multiple choice / Guess the answer (3 options, lettered reveal) |
+| M3 | DAHaECqbD4c | Myth or Fact, True/False, Yes/No, This or That (two-word headline) |
+| M4 | DAHaEGZC2xk | Fill the Blank |
+| M5 | DAHaENfCV2w | Community: question box, poll, emoji slider ("You said..." reveal) |
 
 ## Canva design
 
@@ -72,6 +103,9 @@ Every element is a separate editable layer (text, shapes, logo), so you can add 
 | `SOURCE_REGISTER.md` | Source for each claim, plus the 21 units flagged for extra human review |
 | `tools/content_units.py` | **Single source of truth.** Edit content here |
 | `tools/build_tracker.py` | Regenerates the three files above: `python3 content-bank/tools/build_tracker.py` |
+| `tools/canva_copy.py` | Short on-slide copy per unit + which master it uses + text-length limits |
+| `tools/build_payloads.py` | Builds and length-checks the Canva autofill payloads |
+| `tools/produced_designs.csv` | Canva design ID and edit link for every unit |
 
 ## Publishing rotation
 
@@ -86,15 +120,14 @@ Every element is a separate editable layer (text, shapes, logo), so you can add 
 3. Upload the question PNG to Instagram Stories and add the sticker from `STICKER_INSTRUCTIONS.md` in the empty zone.
 4. Post the reveal slide a few hours later (or the next morning) and add a "Did you get it right?" emoji slider.
 
-## Production plan (Phase 4, after approval)
-
-For each remaining unit, duplicate the matching sample page in Canva and replace the text. Because the layouts are fixed, only text changes: question, options, answer, explanation, bonus fact, source and ID label. Batch size is about 10 units (20 pages) per Canva design, one design per category, which keeps exports and page counts manageable.
-
-## QA status (sample set)
+## QA status
 
 | Check | Result |
 |---|---|
-| Official logo on all 11 pages, same asset, same size and position, undistorted | Pass |
+| All 100 units produced, no missing or duplicate IDs (checked against the payload list) | Pass |
+| Official logo on every page: same asset, size and position (inherited from the masters) | Pass |
+| Field-length check on every autofilled text field (`build_payloads.py`) | Pass |
+| Visual spot-check of every master type plus the longest-text units (A02, A05, D02, E07, E14, C19) | Pass |
 | 1080 × 1920 | Pass |
 | Text inside safe zones, no overflow or overlap (visually checked on every page) | Pass |
 | Sticker space kept free on question slides | Pass |

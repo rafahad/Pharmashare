@@ -42,18 +42,23 @@ def schedule():
 
 def main():
     plan = schedule()
+    produced = {}
+    prod_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "produced_designs.csv")
+    if os.path.exists(prod_path):
+        with open(prod_path, encoding="utf-8") as fh:
+            for r in csv.DictReader(fh):
+                produced[r["cid"]] = r
     rows = []
     for n, u in enumerate(UNITS, start=1):
         cid, fmt, slug, q, opts, ans, expl, bonus, sticker, source, flag = u
         cat_name, folder = CATEGORIES[cid[0]]
         day, week, date = plan[cid]
         base = f"PSA_STORY_{n:03d}_{cid}_{slug}"
-        if cid in SAMPLE_PAGES:
-            qp, ap = SAMPLE_PAGES[cid]
-            canva = f"{CANVA_SAMPLE} p{qp} + p{ap}"
-            status = "DESIGNED - awaiting PSA approval" + (" + REVIEW FLAG" if flag else "")
+        if cid in produced:
+            canva = f"{produced[cid]['design_id']} | {produced[cid]['edit_url']} | folder {folder}"
+            status = "DESIGNED in Canva - needs pharmacist review" + (" + REVIEW FLAG" if flag else "")
         else:
-            canva = "Not yet designed (production after template approval)"
+            canva = "Not yet designed"
             status = "CONTENT DRAFT - needs pharmacist review" + (" + REVIEW FLAG" if flag else "")
         rows.append({
             "story_no": f"{n:03d}",
