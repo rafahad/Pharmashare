@@ -1,0 +1,6008 @@
+[
+ {
+  "n": 2,
+  "cid": "A02",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_002_A02_GENERIC_MEDICINES",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "TRUE OR FALSE  ·  #A02"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Generics help make treatment more affordable for patients and health systems."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: NPRA; WHO – Generic medicines"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A02"
+   },
+   "answer": {
+    "type": "text",
+    "text": "TRUE."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "A registered generic has the same active ingredient, strength and dosage form as the original, and must be shown to work the same way in the body (bioequivalence). Colour, shape and price can differ."
+   },
+   "h1": {
+    "type": "text",
+    "text": "TRUE"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FALSE?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Generic medicines contain the same active ingredient as the original brand.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "True or false? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 3,
+  "cid": "A03",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_003_A03_PARACETAMOL_LABELS",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #A03"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Paracetamol is one of the most widely used medicines in the world."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: NHS – Paracetamol for adults; MedlinePlus – Acetaminophen"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A03"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Double-dose risk"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Taking two products that both contain paracetamol can add up to too much, which can harm the liver. Always check the active ingredients on every label."
+   },
+   "question": {
+    "type": "text",
+    "text": "Many cold & flu products contain paracetamol. Why does that matter?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "It changes the taste"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "You could double-dose"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "It works faster"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "B"
+   }
+  }
+ },
+ {
+  "n": 4,
+  "cid": "A04",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_004_A04_TAKE_WITH_FOOD",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #A04"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Some medicines are the opposite and work best on an empty stomach."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – Ibuprofen for adults"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A04"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Stomach/absorption"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "For some medicines, such as ibuprofen, food helps protect the stomach lining. For others, food helps the body absorb the medicine. Always follow the label."
+   },
+   "question": {
+    "type": "text",
+    "text": "A label says 'take with food'. What is that usually for?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Protect stomach / absorb"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Longer shelf life"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "No real reason"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 5,
+  "cid": "A05",
+  "master": "M4",
+  "design_id": "DAHaEGZC2xk",
+  "title": "PSA_STORY_005_A05_OTC_MEANING",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "FILL THE BLANK  ·  #A05"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Many OTC medicines in Malaysia can only be sold in a pharmacy, where a pharmacist can advise you."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: MedlinePlus – Over-the-counter medicines"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A05"
+   },
+   "answer": {
+    "type": "text",
+    "text": "OVER the counter"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "OTC medicines can be bought without a prescription. They are still real medicines, so read the label and ask a pharmacist if unsure."
+   },
+   "h1": {
+    "type": "text",
+    "text": "FILL THE\nBLANK"
+   },
+   "statement": {
+    "type": "text",
+    "text": "OTC medicines are medicines sold ___ the counter."
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Type your answer below ↓"
+   }
+  }
+ },
+ {
+  "n": 6,
+  "cid": "A06",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_006_A06_TABLET_VS_CAPSULE",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "THIS OR THAT  ·  #A06"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Don't open capsules or crush tablets unless a pharmacist says it's okay. Some are designed to release slowly."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: Aulton's Pharmaceutics"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A06"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Capsule!"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "A capsule has a shell (usually gelatin or plant-based) that holds the medicine. A tablet is medicine powder pressed into a solid shape."
+   },
+   "h1": {
+    "type": "text",
+    "text": "TABLET"
+   },
+   "h2": {
+    "type": "text",
+    "text": "CAPSULE"
+   },
+   "statement": {
+    "type": "text",
+    "text": "Which one has an outer shell holding powder or liquid inside?"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Pick one below ↓"
+   }
+  }
+ },
+ {
+  "n": 7,
+  "cid": "A07",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_007_A07_CRUSHING_TABLETS",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #A07"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Look for 'SR', 'XR', 'MR' or 'CR' in a medicine's name: they often mean modified release."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS Specialist Pharmacy Service"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A07"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Dose dumping risk"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Modified-release and enteric-coated tablets are designed to release medicine slowly or past the stomach. Crushing them can cause too much medicine at once or stomach irritation."
+   },
+   "question": {
+    "type": "text",
+    "text": "Why shouldn't some tablets be crushed?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Dose released too fast"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "It's illegal"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "They taste better whole"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 8,
+  "cid": "A08",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_008_A08_ANTIHISTAMINE",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "GUESS THE ANSWER  ·  #A08"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Some older antihistamines can make you drowsy, so don't drive if you feel sleepy."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – Antihistamines"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A08"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Allergies"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Antihistamines block histamine, a chemical your body releases during an allergic reaction. They help with sneezing, itchy eyes and hives."
+   },
+   "question": {
+    "type": "text",
+    "text": "Antihistamines are mainly used to treat…"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Allergy symptoms"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Bacterial infections"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "High cholesterol"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 9,
+  "cid": "A09",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_009_A09_INSULIN_TABLET",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "TRUE OR FALSE  ·  #A09"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Insulin was first used to treat a patient in 1922. Before that, type 1 diabetes was usually fatal."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: MedlinePlus – Insulin"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A09"
+   },
+   "answer": {
+    "type": "text",
+    "text": "FALSE."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Insulin is a protein, so the stomach would digest it before it could work. That's why it is usually given by injection or an insulin pump."
+   },
+   "h1": {
+    "type": "text",
+    "text": "TRUE"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FALSE?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Insulin is usually taken as a tablet.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "True or false? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 10,
+  "cid": "A10",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_010_A10_LIVER_METABOLISM",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #A10"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "This is why liver or kidney problems can change the dose a person needs."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: Rang & Dale's Pharmacology"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A10"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Liver"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "The liver contains enzymes that break down many medicines. The kidneys then help remove many of them from the body."
+   },
+   "question": {
+    "type": "text",
+    "text": "Which organ breaks down (metabolises) most medicines?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Liver"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Heart"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Lungs"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 11,
+  "cid": "A11",
+  "master": "M4",
+  "design_id": "DAHaEGZC2xk",
+  "title": "PSA_STORY_011_A11_EXPIRY_DATE",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "FILL THE BLANK  ·  #A11"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Some products, like eye drops, must be thrown away a few weeks after opening, even before the expiry date."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: NHS; NPRA labelling requirements"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A11"
+   },
+   "answer": {
+    "type": "text",
+    "text": "EXPIRY date"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "After the expiry date, the manufacturer no longer guarantees the medicine's strength or safety. Don't use expired medicines."
+   },
+   "h1": {
+    "type": "text",
+    "text": "FILL THE\nBLANK"
+   },
+   "statement": {
+    "type": "text",
+    "text": "The ___ date is the last day a medicine is guaranteed to work as intended."
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Type your answer below ↓"
+   }
+  }
+ },
+ {
+  "n": 12,
+  "cid": "A12",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_012_A12_ANTIBIOTIC_COURSE",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "YES OR NO  ·  #A12"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Never save leftover antibiotics or share them with others."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – Antibiotics"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A12"
+   },
+   "answer": {
+    "type": "text",
+    "text": "YES*"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Take antibiotics exactly as prescribed, unless your doctor or pharmacist tells you otherwise. Stopping early on your own may mean the infection isn't fully treated."
+   },
+   "h1": {
+    "type": "text",
+    "text": "YES"
+   },
+   "h2": {
+    "type": "text",
+    "text": "NO?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Keep taking prescribed antibiotics exactly as directed, even after you feel better?”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Yes or no? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 13,
+  "cid": "A13",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_013_A13_MEDICINE_STORAGE",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #A13"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Some medicines, like many insulins and vaccines, need the fridge, so always check the label."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – How to store medicines"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A13"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Cool, dry & dark"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Heat, light and humidity can damage medicines. Bathrooms are often humid and cars get very hot."
+   },
+   "question": {
+    "type": "text",
+    "text": "Where should most medicines be stored?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Cool, dry & dark place"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Bathroom cabinet"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Car dashboard"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 14,
+  "cid": "A14",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_014_A14_ASPIRIN_WILLOW",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "GUESS THE ANSWER  ·  #A14"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "People used willow bark for pain and fever for thousands of years."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: Royal Society of Chemistry – Aspirin"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A14"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Willow tree"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Willow bark contains salicin, which the body turns into salicylic acid. Chemists later made acetylsalicylic acid, known as aspirin, in 1897."
+   },
+   "question": {
+    "type": "text",
+    "text": "Aspirin's story started with which plant?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Willow tree"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Rose"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Coconut palm"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 15,
+  "cid": "A15",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_015_A15_MORPHINE_POPPY",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "TRUE OR FALSE  ·  #A15"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Morphine was named after Morpheus, the Greek god of dreams."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: MedlinePlus – Morphine"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A15"
+   },
+   "answer": {
+    "type": "text",
+    "text": "TRUE."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Morphine is extracted from the opium poppy. It is a strong painkiller used under strict medical control."
+   },
+   "h1": {
+    "type": "text",
+    "text": "TRUE"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FALSE?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Morphine comes from the opium poppy.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "True or false? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 16,
+  "cid": "A16",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_016_A16_SIDE_EFFECTS",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #A16"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "In Malaysia, consumers can report side effects to NPRA using the ConSERF form."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NPRA – Pharmacovigilance (ConSERF)"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A16"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Unwanted effect"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "A side effect is any effect other than the one intended. Many are mild, but some are serious, so tell your doctor or pharmacist."
+   },
+   "question": {
+    "type": "text",
+    "text": "What is a 'side effect'?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "An unwanted extra effect"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Medicine stops working"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Only an allergy"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 17,
+  "cid": "A17",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_017_A17_GENERIC_NAME",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "THIS OR THAT  ·  #A17"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Generic names follow international naming rules (WHO INN), so pharmacists worldwide recognise them."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: WHO – International Nonproprietary Names"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A17"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Generic name"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "The generic name is the medicine's official scientific name. Brands sell the same medicine under their own trade names."
+   },
+   "h1": {
+    "type": "text",
+    "text": "BRAND"
+   },
+   "h2": {
+    "type": "text",
+    "text": "GENERIC"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Paracetamol” is a brand name or a generic name?"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Pick one below ↓"
+   }
+  }
+ },
+ {
+  "n": 18,
+  "cid": "A18",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_018_A18_IV_FASTEST",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #A18"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Pharmacists call the share of a dose that reaches the blood 'bioavailability'. For IV it is 100%."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: Rang & Dale's Pharmacology"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A18"
+   },
+   "answer": {
+    "type": "text",
+    "text": "IV injection"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "An IV injection goes straight into a vein, so it skips absorption from the gut or skin entirely."
+   },
+   "question": {
+    "type": "text",
+    "text": "Which route gets a medicine into the blood fastest?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "IV injection"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Tablet"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Skin cream"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 19,
+  "cid": "A19",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_019_A19_UBAT_TERKAWAL",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "GUESS THE ANSWER  ·  #A19"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Registered products in Malaysia carry a MAL registration number on the label."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: NPRA labelling; Poisons Act 1952"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A19"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Controlled medicine"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "'Ubat Terkawal' marks a controlled medicine. It can only be supplied under regulated conditions, such as with a prescription or by a pharmacist."
+   },
+   "question": {
+    "type": "text",
+    "text": "What does 'Ubat Terkawal' on a Malaysian medicine label mean?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Controlled medicine"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Herbal medicine"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Expired medicine"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 20,
+  "cid": "A20",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_020_A20_SUPPLEMENT_INTERACTIONS",
+  "folder": "FAHaESgtFFw",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "TRUE OR FALSE  ·  #A20"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Always tell your pharmacist about every supplement you take."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: NHS – St John's wort; MedlinePlus"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #A20"
+   },
+   "answer": {
+    "type": "text",
+    "text": "FALSE."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Some supplements do interact. For example, St John's wort can make some medicines, including some contraceptive pills, less effective."
+   },
+   "h1": {
+    "type": "text",
+    "text": "TRUE"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FALSE?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Vitamins and herbal supplements can't interact with medicines.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "True or false? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 22,
+  "cid": "B02",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_022_B02_NATURAL_ALWAYS_SAFE",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B02"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "In Malaysia, check for a MAL registration number and verify the product on the NPRA website."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: NPRA product search; NHS – Herbal medicines"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B02"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a MYTH."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Natural doesn't always mean safe. Herbal products can cause side effects, interact with medicines, or be contaminated if unregistered."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Natural or herbal products are always safe.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 23,
+  "cid": "B03",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_023_B03_MORE_IS_BETTER",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B03"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "If a medicine isn't helping, talk to a pharmacist or doctor instead of increasing the dose."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – Taking medicines safely"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B03"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a MYTH."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Taking more than the recommended dose usually doesn't help more, but it can raise the risk of serious side effects or overdose."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“If one dose helps, taking more will work better.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 24,
+  "cid": "B04",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_024_B04_GENERICS_WEAKER",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B04"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "The price difference mostly comes from the original company's research and marketing costs."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: NPRA; WHO"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B04"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a MYTH."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Registered generics have the same active ingredient and strength and must be bioequivalent to the original, so they work the same way."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Generic medicines are weaker than brand-name medicines.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 25,
+  "cid": "B05",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_025_B05_VACCINES_AUTISM",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B05"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Vaccines prevent an estimated 3.5 to 5 million deaths every year worldwide."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: WHO – Vaccines; NHS – MMR vaccine"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B05"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a MYTH."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Large studies of millions of children have found no link between vaccines and autism. The 1998 paper that started this claim was retracted."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Vaccines cause autism.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 26,
+  "cid": "B06",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_026_B06_STOP_BP_MEDS",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B06"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Never stop a long-term medicine without talking to your doctor or pharmacist first."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – High blood pressure"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B06"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a MYTH."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Blood pressure is often normal because the medicine is working. Stopping without advice can make it rise again."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Once your blood pressure is normal, you can stop your medicine.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 27,
+  "cid": "B07",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_027_B07_SHARING_PRESCRIPTIONS",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B07"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "The same symptoms can come from very different causes."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: NHS; MOH Malaysia – Know Your Medicine"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B07"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a MYTH."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Prescription medicines are chosen for one person, based on their diagnosis, dose, allergies and other medicines. They may be unsafe for someone else."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“It's fine to share your prescription medicine with a friend.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 28,
+  "cid": "B08",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_028_B08_MILK_ANTIBIOTICS",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B08"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Antacids and iron supplements can have a similar effect."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: NHS – Doxycycline; NHS – Ciprofloxacin"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B08"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a FACT."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Calcium in milk can bind to some antibiotics, such as doxycycline and ciprofloxacin, so less is absorbed. Check the label for timing advice."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Milk can stop some antibiotics from working properly.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 29,
+  "cid": "B09",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_029_B09_AMBER_BOTTLES",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B09"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "That's also why many medicine labels say 'protect from light'."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: Aulton's Pharmaceutics"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B09"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a MYTH."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Amber glass and plastic block much of the light that can break down light-sensitive medicines."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Brown (amber) medicine bottles are just for style.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 30,
+  "cid": "B10",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_030_B10_SANITISER_ALL_GERMS",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B10"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Use sanitiser with at least 60% alcohol when soap isn't available."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: NHS – Norovirus; CDC – Hand sanitizer"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B10"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a MYTH."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Sanitiser works against many germs, but not all. For example, it doesn't work well against norovirus. Soap and water are best when hands are visibly dirty."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Alcohol hand sanitiser kills every germ.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 31,
+  "cid": "B11",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_031_B11_FLU_JAB_FLU",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B11"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "It takes about 2 weeks after vaccination for protection to build up."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: NHS – Flu vaccine; CDC"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B11"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a MYTH."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Injected flu vaccines contain inactivated virus or a single virus protein, so they can't cause flu. A sore arm or mild aches for a day or two are normal."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“The flu jab (injection) can give you the flu.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 32,
+  "cid": "B12",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_032_B12_ANTIDEPRESSANTS_ADDICTIVE",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B12"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Talking therapies and medicines are often used together."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – Antidepressants"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B12"
+   },
+   "answer": {
+    "type": "text",
+    "text": "MYTH, but…"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Antidepressants don't cause cravings the way addictive drugs do. Stopping suddenly can cause withdrawal-like symptoms, so dose changes should be planned with a doctor."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Antidepressants are addictive like recreational drugs.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 33,
+  "cid": "B13",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_033_B13_ANTIBIOTICS_CONTRACEPTION",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B13"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Always mention contraception when a new medicine is prescribed."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – Do antibiotics affect contraception?"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B13"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a MYTH."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Most antibiotics don't affect hormonal contraception. A few, like rifampicin and rifabutin, do. Vomiting or severe diarrhoea can also reduce the pill's effect."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“All antibiotics stop the contraceptive pill from working.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 34,
+  "cid": "B14",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_034_B14_PHARMACISTS_COUNT_PILLS",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B14"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Pharmacists are often the most accessible healthcare professionals in the community."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: FIP; MOH Pharmaceutical Services"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B14"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a MYTH."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Pharmacists check prescriptions for safety, spot drug interactions, advise patients, manage minor illnesses and work in hospitals, industry, regulation and research."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Pharmacists just count pills.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 35,
+  "cid": "B15",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_035_B15_SORE_THROAT_ANTIBIOTICS",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B15"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "See a doctor if it's severe, lasts over a week, or you have trouble swallowing or breathing."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – Sore throat"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B15"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a MYTH."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Most sore throats are caused by viruses and get better within about a week without antibiotics."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Most sore throats need antibiotics.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 36,
+  "cid": "B16",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_036_B16_BUTTER_ON_BURN",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B16"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Get medical help for large, deep or facial burns, and for burns on babies or children."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – Burns and scalds"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B16"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a MYTH."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Butter and toothpaste can trap heat and raise the risk of infection. Cool the burn under cool running water for 20 minutes."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Put butter or toothpaste on a burn.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 37,
+  "cid": "B17",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_037_B17_BODY_RESISTANT",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B17"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Using antibiotics only when needed helps slow resistance."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: WHO – Antimicrobial resistance"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B17"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a MYTH."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "It's the bacteria that become resistant, not your body. Resistant bacteria can then spread to other people."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Antibiotic resistance means your BODY becomes resistant.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 38,
+  "cid": "B18",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_038_B18_APPROVED_100_SAFE",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B18"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "This ongoing monitoring is called pharmacovigilance."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NPRA – Pharmacovigilance"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B18"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a MYTH."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Approval means the benefits outweigh the risks for its intended use. Side effects can still happen, so medicines keep being monitored after approval."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Once a medicine is approved, it's 100% safe for everyone.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 39,
+  "cid": "B19",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_039_B19_VITAMIN_C_COLDS",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B19"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "A balanced diet with fruit and vegetables usually provides enough vitamin C."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: Cochrane Review (Hemila & Chalker, 2013)"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B19"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Mostly MYTH."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "For most people, regular vitamin C doesn't prevent colds. Research suggests it may only slightly shorten how long a cold lasts."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Taking vitamin C every day stops you catching colds.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 40,
+  "cid": "B20",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_040_B20_ALCOHOL_ONE_DRINK",
+  "folder": "FAHaER1jtFk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #B20"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Check the label or ask your pharmacist before mixing any medicine with alcohol."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: NHS – Metronidazole; NIAAA"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #B20"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a MYTH."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Some medicines interact even with small amounts of alcohol, such as metronidazole and medicines that cause drowsiness."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“One alcoholic drink with medicine is always fine.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 42,
+  "cid": "C02",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_042_C02_MEDICINE_DISPOSAL",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #C02"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Malaysia's Ministry of Health runs a medicine return programme at government health facilities."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: MOH Malaysia – Pharmaceutical Services"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C02"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Return them"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Returning unused medicines keeps them out of the environment and out of children's reach. MOH health facilities accept returned medicines."
+   },
+   "question": {
+    "type": "text",
+    "text": "What's the best way to get rid of unused medicines?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Flush down the toilet"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Return to pharmacy/clinic"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Throw in the bin"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "B"
+   }
+  }
+ },
+ {
+  "n": 43,
+  "cid": "C03",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_043_C03_LIQUID_MEASURE",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #C03"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "An oral syringe is the most accurate option for small doses."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: US FDA – Dosing devices; NHS"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C03"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Device provided"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Kitchen spoons come in many sizes, so the dose can be too high or too low. Use the device that comes with the medicine."
+   },
+   "question": {
+    "type": "text",
+    "text": "Best way to measure liquid medicine?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Kitchen spoon"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "The device provided"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Just guess"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "B"
+   }
+  }
+ },
+ {
+  "n": 44,
+  "cid": "C04",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_044_C04_SPF",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "GUESS THE ANSWER  ·  #C04"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Reapply sunscreen after swimming or sweating."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – Sunscreen and sun safety"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C04"
+   },
+   "answer": {
+    "type": "text",
+    "text": "UVB (sunburn)"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "SPF rates protection against UVB rays, the main cause of sunburn. For UVA protection too, look for 'broad spectrum' on the label."
+   },
+   "question": {
+    "type": "text",
+    "text": "SPF on sunscreen mainly tells you protection against…"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "UVB (sunburn)"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Mosquitoes"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Heat"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 45,
+  "cid": "C05",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_045_C05_SPRAIN_ICE",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "THIS OR THAT  ·  #C05"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Remember: rest, ice, compression and elevation."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – Sprains and strains"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C05"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Ice!"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "In the first 48 hours, a cold pack wrapped in a towel helps reduce swelling. Heat can make swelling worse early on."
+   },
+   "h1": {
+    "type": "text",
+    "text": "ICE"
+   },
+   "h2": {
+    "type": "text",
+    "text": "HEAT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "Fresh ankle sprain (first 2 days): ice or heat?"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Pick one below ↓"
+   }
+  }
+ },
+ {
+  "n": 46,
+  "cid": "C06",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_046_C06_EYE_DROPS_OPENED",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "TRUE OR FALSE  ·  #C06"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Write the opening date on the bottle so you don't forget."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: Product labels; NHS – Eye drops"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C06"
+   },
+   "answer": {
+    "type": "text",
+    "text": "FALSE (usually)"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Most multi-dose eye drops should be thrown away about 4 weeks after opening because they can become contaminated. Always check the label."
+   },
+   "h1": {
+    "type": "text",
+    "text": "TRUE"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FALSE?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Eye drops can be used for months after opening.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "True or false? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 47,
+  "cid": "C07",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_047_C07_TABLET_DRINK",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #C07"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Swallowing tablets with too little water can irritate the throat."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: MedlinePlus; NHS"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C07"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Water"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Water helps the tablet go down and dissolve, and it doesn't interfere with most medicines. Other drinks can affect some medicines."
+   },
+   "question": {
+    "type": "text",
+    "text": "Best drink to take most tablets with?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "A glass of water"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Coffee"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Fizzy drink"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 48,
+  "cid": "C08",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_048_C08_DEHYDRATION_SIGNS",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #C08"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "In hot weather or when you're unwell, you may need to drink more."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – Dehydration"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C08"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Pale, clear urine"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Pale, clear urine usually means you're drinking enough. Dark urine, thirst, dizziness and tiredness can be signs of dehydration."
+   },
+   "question": {
+    "type": "text",
+    "text": "Which one is NOT usually a sign of dehydration?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Dark yellow urine"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Feeling thirsty"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Pale, clear urine"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "C"
+   }
+  }
+ },
+ {
+  "n": 49,
+  "cid": "C09",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_049_C09_PHOTOSENSITIVITY",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "YES OR NO  ·  #C09"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "This reaction is called photosensitivity."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – Doxycycline"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C09"
+   },
+   "answer": {
+    "type": "text",
+    "text": "YES."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Some medicines, like doxycycline, can make skin more sensitive to sunlight. Use sunscreen and cover up if your label warns about this."
+   },
+   "h1": {
+    "type": "text",
+    "text": "YES"
+   },
+   "h2": {
+    "type": "text",
+    "text": "NO?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Can some medicines make your skin burn more easily in the sun?”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Yes or no? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 50,
+  "cid": "C10",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_050_C10_ORS",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #C10"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "WHO counts ORS among the most important medical advances of the 20th century."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: WHO – Oral rehydration salts"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C10"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Dehydration"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "ORS replaces water and salts lost through diarrhoea and vomiting. Its sugar-and-salt balance helps the gut absorb water."
+   },
+   "question": {
+    "type": "text",
+    "text": "Oral rehydration salts (ORS) are mainly used for…"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Diarrhoea dehydration"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Headache"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Cough"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 51,
+  "cid": "C11",
+  "master": "M4",
+  "design_id": "DAHaEGZC2xk",
+  "title": "PSA_STORY_051_C11_FEVER_TEMP",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "FILL THE BLANK  ·  #C11"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Get urgent help if a fever comes with a stiff neck, rash that doesn't fade, or difficulty breathing."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – High temperature (fever) in adults"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C11"
+   },
+   "answer": {
+    "type": "text",
+    "text": "38°C"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "A temperature of 38°C or above is generally considered a fever. Most fevers settle in a few days."
+   },
+   "h1": {
+    "type": "text",
+    "text": "FILL THE\nBLANK"
+   },
+   "statement": {
+    "type": "text",
+    "text": "In adults, a fever is usually a temperature of ___°C or above."
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Type your answer below ↓"
+   }
+  }
+ },
+ {
+  "n": 52,
+  "cid": "C12",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_052_C12_LONG_COUGH",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "THIS OR THAT  ·  #C12"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Coughing up blood needs urgent medical attention."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – Cough"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C12"
+   },
+   "answer": {
+    "type": "text",
+    "text": "See a doctor"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Most coughs clear up within 3 weeks. A cough lasting longer should be checked by a doctor."
+   },
+   "h1": {
+    "type": "text",
+    "text": "WAIT"
+   },
+   "h2": {
+    "type": "text",
+    "text": "DOCTOR?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "A cough lasting more than 3 weeks: wait it out or see a doctor?"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Pick one below ↓"
+   }
+  }
+ },
+ {
+  "n": 53,
+  "cid": "C13",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_053_C13_BRUSHING_TIME",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "GUESS THE ANSWER  ·  #C13"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Spit after brushing, but don't rinse, so the fluoride keeps working."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – How to keep your teeth clean"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C13"
+   },
+   "answer": {
+    "type": "text",
+    "text": "2 minutes"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Brush for about 2 minutes, twice a day, with fluoride toothpaste."
+   },
+   "question": {
+    "type": "text",
+    "text": "How long should you brush your teeth each time?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "30 seconds"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "2 minutes"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "10 minutes"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "B"
+   }
+  }
+ },
+ {
+  "n": 54,
+  "cid": "C14",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_054_C14_MAY_CAUSE_DROWSINESS",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #C14"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Some cough and cold products contain sedating antihistamines."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – Antihistamines"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C14"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Avoid driving"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Drowsiness can slow your reactions. Avoid driving and alcohol until you know how the medicine affects you."
+   },
+   "question": {
+    "type": "text",
+    "text": "A label says 'may cause drowsiness'. What should you do?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Avoid driving if affected"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Take it with coffee"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Ignore it"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 55,
+  "cid": "C15",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_055_C15_SPLIT_TABLETS",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "TRUE OR FALSE  ·  #C15"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Ask your pharmacist before splitting tablets. A tablet cutter gives a cleaner split."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: US FDA – Tablet splitting; NHS SPS"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C15"
+   },
+   "answer": {
+    "type": "text",
+    "text": "FALSE."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Only some tablets are designed to be split, often those with a score line. Splitting others can change how the medicine works."
+   },
+   "h1": {
+    "type": "text",
+    "text": "TRUE"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FALSE?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“It's safe to split any tablet in half.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "True or false? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 56,
+  "cid": "C16",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_056_C16_VITAMIN_D_SUN",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "GUESS THE ANSWER  ·  #C16"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Vitamin D is also found in oily fish, egg yolks and fortified foods."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – Vitamin D"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C16"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Vitamin D"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Your skin makes vitamin D from sunlight. It helps keep bones, teeth and muscles healthy."
+   },
+   "question": {
+    "type": "text",
+    "text": "Which vitamin does your skin make in sunlight?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Vitamin C"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Vitamin D"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Vitamin K"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "B"
+   }
+  }
+ },
+ {
+  "n": 57,
+  "cid": "C17",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_057_C17_ASK_PHARMACIST",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #C17"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "You can ask for advice even if you don't buy anything."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: MOH Malaysia – Pharmaceutical Services"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C17"
+   },
+   "answer": {
+    "type": "text",
+    "text": "A pharmacist"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Pharmacists can check whether a medicine suits you, your other medicines and your health conditions, usually with no appointment needed."
+   },
+   "question": {
+    "type": "text",
+    "text": "New over-the-counter medicine? Who's the easiest expert to ask?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "A pharmacist"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Social media"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "A random forum"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 58,
+  "cid": "C18",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_058_C18_FIRST_AID_KIT",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #C18"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Check your kit every few months for expired items."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – Your medicine cabinet"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C18"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Old antibiotics"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Antibiotics should only be taken when prescribed for a specific infection. A good kit has plasters, bandages, antiseptic, a thermometer and basic painkillers."
+   },
+   "question": {
+    "type": "text",
+    "text": "Which item should NOT be in a home first-aid kit?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Plasters & bandages"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "A thermometer"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Leftover antibiotics"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "C"
+   }
+  }
+ },
+ {
+  "n": 59,
+  "cid": "C19",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_059_C19_INSULIN_HEAT",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "THIS OR THAT  ·  #C19"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Never freeze insulin. Frozen insulin should be thrown away."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: Product leaflets; MedlinePlus – Insulin"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C19"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Room temp*"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Heat damages insulin. Pens in use are usually kept at room temperature for a limited time; unopened ones go in the fridge. *Always follow the label."
+   },
+   "h1": {
+    "type": "text",
+    "text": "HOT CAR"
+   },
+   "h2": {
+    "type": "text",
+    "text": "ROOM?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "Insulin pen in use: keep it in a hot car or at room temperature?"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Pick one below ↓"
+   }
+  }
+ },
+ {
+  "n": 60,
+  "cid": "C20",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_060_C20_THREE_TIMES_DAILY",
+  "folder": "FAHaEd7TKKs",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #C20"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "If you miss a dose, check the leaflet or ask a pharmacist. Don't double up automatically."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – Taking medicines"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #C20"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Spread it out"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Three times a day means spacing doses through your waking hours, so the medicine level stays steady."
+   },
+   "question": {
+    "type": "text",
+    "text": "'Take 1 tablet three times a day' means…"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Spread across the day"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "All 3 at once"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "When you remember"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 62,
+  "cid": "D02",
+  "master": "M5",
+  "design_id": "DAHaENfCV2w",
+  "title": "PSA_STORY_062_D02_LAB_COAT",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "COMMUNITY POLL  ·  #D02"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "PSA TIP"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Lab coats protect your skin and clothes from spills during practicals."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: Lab safety guidance (university)"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "RESULTS  ·  #D02"
+   },
+   "intro": {
+    "type": "text",
+    "text": "Quick poll for pharmacy students…"
+   },
+   "question": {
+    "type": "text",
+    "text": "Lab coat: iconic look or just too warm? 🥼"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Vote below ↓"
+   },
+   "a_head": {
+    "type": "text",
+    "text": "The results are in…"
+   },
+   "box_label": {
+    "type": "text",
+    "text": "POLL RESULTS"
+   },
+   "closing": {
+    "type": "text",
+    "text": "Thanks for voting! 🗳️"
+   }
+  }
+ },
+ {
+  "n": 63,
+  "cid": "D03",
+  "master": "M5",
+  "design_id": "DAHaENfCV2w",
+  "title": "PSA_STORY_063_D03_WHY_PHARMACY",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "COMMUNITY TALK  ·  #D03"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "DID YOU KNOW?"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Pharmacists work in hospitals, community pharmacies, industry, regulation, research and academia."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: FIP - Pharmacy profession"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "YOUR ANSWERS  ·  #D03"
+   },
+   "intro": {
+    "type": "text",
+    "text": "Tell us your story…"
+   },
+   "question": {
+    "type": "text",
+    "text": "What made you choose pharmacy? 💊"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Drop it in the box below ↓"
+   },
+   "a_head": {
+    "type": "text",
+    "text": "You said…"
+   },
+   "box_label": {
+    "type": "text",
+    "text": "TOP ANSWERS FROM OUR COMMUNITY"
+   },
+   "closing": {
+    "type": "text",
+    "text": "Thanks for sharing! 💬"
+   }
+  }
+ },
+ {
+  "n": 64,
+  "cid": "D04",
+  "master": "M5",
+  "design_id": "DAHaENfCV2w",
+  "title": "PSA_STORY_064_D04_PHARMACOLOGY_VS_PHARMACEUTICS",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "THIS OR THAT  ·  #D04"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "QUICK DEFINITIONS"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Pharmacology: how medicines act on the body. Pharmaceutics: how they're designed and made into dosage forms."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: Rang & Dale's Pharmacology; Aulton's Pharmaceutics"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "RESULTS  ·  #D04"
+   },
+   "intro": {
+    "type": "text",
+    "text": "Be honest…"
+   },
+   "question": {
+    "type": "text",
+    "text": "Pharmacology or pharmaceutics: which do you enjoy more?"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Vote below ↓"
+   },
+   "a_head": {
+    "type": "text",
+    "text": "The results are in…"
+   },
+   "box_label": {
+    "type": "text",
+    "text": "POLL RESULTS"
+   },
+   "closing": {
+    "type": "text",
+    "text": "Thanks for voting! 🗳️"
+   }
+  }
+ },
+ {
+  "n": 65,
+  "cid": "D05",
+  "master": "M5",
+  "design_id": "DAHaENfCV2w",
+  "title": "PSA_STORY_065_D05_EXAM_READY",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "EMOJI SLIDER  ·  #D05"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "PSA TIP"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Reviewing a topic across several days (spaced practice) beats cramming the night before."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: Cepeda et al. (2006) Psychological Bulletin - Distributed practice"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "RESULTS  ·  #D05"
+   },
+   "intro": {
+    "type": "text",
+    "text": "Exam season check-in…"
+   },
+   "question": {
+    "type": "text",
+    "text": "How ready are you for exam week? 😭➡️😎"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Slide to answer ↓"
+   },
+   "a_head": {
+    "type": "text",
+    "text": "You said…"
+   },
+   "box_label": {
+    "type": "text",
+    "text": "SLIDER RESULTS"
+   },
+   "closing": {
+    "type": "text",
+    "text": "You've got this! 💪"
+   }
+  }
+ },
+ {
+  "n": 66,
+  "cid": "D06",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_066_D06_BPHARM_YEARS",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #D06"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "That training year is called the Provisionally Registered Pharmacist (PRP) programme."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: Pharmacy Board Malaysia"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #D06"
+   },
+   "answer": {
+    "type": "text",
+    "text": "4 years"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "A BPharm in Malaysia is a 4-year degree. Graduates then complete 1 year of provisional registration training before full registration."
+   },
+   "question": {
+    "type": "text",
+    "text": "How many years is a pharmacy degree (BPharm) in Malaysia?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "3 years"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "4 years"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "6 years"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "B"
+   }
+  }
+ },
+ {
+  "n": 67,
+  "cid": "D07",
+  "master": "M5",
+  "design_id": "DAHaENfCV2w",
+  "title": "PSA_STORY_067_D07_STUDY_HACK_DRUG_NAMES",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "COMMUNITY TALK  ·  #D07"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "PSA TIP"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Learn the stems: -olol = beta-blockers, -pril = ACE inhibitors, -statin = cholesterol-lowering."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: WHO – INN stem book"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "YOUR ANSWERS  ·  #D07"
+   },
+   "intro": {
+    "type": "text",
+    "text": "Share the secret…"
+   },
+   "question": {
+    "type": "text",
+    "text": "What's your best hack for memorising drug names? 🧠"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Drop it in the box below ↓"
+   },
+   "a_head": {
+    "type": "text",
+    "text": "You said…"
+   },
+   "box_label": {
+    "type": "text",
+    "text": "TOP ANSWERS FROM OUR COMMUNITY"
+   },
+   "closing": {
+    "type": "text",
+    "text": "Thanks for sharing! 💬"
+   }
+  }
+ },
+ {
+  "n": 68,
+  "cid": "D08",
+  "master": "M5",
+  "design_id": "DAHaENfCV2w",
+  "title": "PSA_STORY_068_D08_NIGHT_OWL",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "COMMUNITY POLL  ·  #D08"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "PSA TIP"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Whatever your style, enough sleep helps your brain store what you've learnt."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NIH – Sleep and memory"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "RESULTS  ·  #D08"
+   },
+   "intro": {
+    "type": "text",
+    "text": "Study mode…"
+   },
+   "question": {
+    "type": "text",
+    "text": "Night owl 🦉 or early bird 🐦?"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Vote below ↓"
+   },
+   "a_head": {
+    "type": "text",
+    "text": "The results are in…"
+   },
+   "box_label": {
+    "type": "text",
+    "text": "POLL RESULTS"
+   },
+   "closing": {
+    "type": "text",
+    "text": "Thanks for voting! 🗳️"
+   }
+  }
+ },
+ {
+  "n": 69,
+  "cid": "D09",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_069_D09_BETA_BLOCKER_STEM",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #D09"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "-pril means ACE inhibitor (e.g. enalapril); -statin means cholesterol-lowering (e.g. simvastatin)."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: WHO – INN stem book"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #D09"
+   },
+   "answer": {
+    "type": "text",
+    "text": "-olol"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Beta-blockers like atenolol and bisoprolol end in -olol. They slow the heart and lower blood pressure."
+   },
+   "question": {
+    "type": "text",
+    "text": "Which drug-name ending usually means 'beta-blocker'?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "-olol"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "-pril"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "-statin"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 70,
+  "cid": "D10",
+  "master": "M5",
+  "design_id": "DAHaENfCV2w",
+  "title": "PSA_STORY_070_D10_ASK_PHARM_STUDENT",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "COMMUNITY TALK  ·  #D10"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "PSA TIP"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "For personal medical questions, please speak to a registered pharmacist or doctor."
+   },
+   "source": {
+    "type": "text",
+    "text": "PSA UniMAIWP"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "YOUR ANSWERS  ·  #D10"
+   },
+   "intro": {
+    "type": "text",
+    "text": "Curious about pharmacy?"
+   },
+   "question": {
+    "type": "text",
+    "text": "Ask a pharmacy student anything! 🎤"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Drop it in the box below ↓"
+   },
+   "a_head": {
+    "type": "text",
+    "text": "You asked…"
+   },
+   "box_label": {
+    "type": "text",
+    "text": "YOUR TOP QUESTIONS"
+   },
+   "closing": {
+    "type": "text",
+    "text": "Thanks for asking! 💬"
+   }
+  }
+ },
+ {
+  "n": 71,
+  "cid": "D11",
+  "master": "M5",
+  "design_id": "DAHaENfCV2w",
+  "title": "PSA_STORY_071_D11_HOSPITAL_VS_COMMUNITY",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "THIS OR THAT  ·  #D11"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "DID YOU KNOW?"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Pharmacists also work in industry, regulatory affairs (like NPRA), research and academia."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: FIP – Pharmacy practice settings"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "RESULTS  ·  #D11"
+   },
+   "intro": {
+    "type": "text",
+    "text": "Future career check…"
+   },
+   "question": {
+    "type": "text",
+    "text": "Hospital pharmacy or community pharmacy? 🏥"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Vote below ↓"
+   },
+   "a_head": {
+    "type": "text",
+    "text": "The results are in…"
+   },
+   "box_label": {
+    "type": "text",
+    "text": "POLL RESULTS"
+   },
+   "closing": {
+    "type": "text",
+    "text": "Thanks for voting! 🗳️"
+   }
+  }
+ },
+ {
+  "n": 72,
+  "cid": "D12",
+  "master": "M5",
+  "design_id": "DAHaENfCV2w",
+  "title": "PSA_STORY_072_D12_LAB_PRACTICALS",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "EMOJI SLIDER  ·  #D12"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "PSA TIP"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Read the practical manual before the session. You'll finish faster and safer."
+   },
+   "source": {
+    "type": "text",
+    "text": "PSA UniMAIWP"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "RESULTS  ·  #D12"
+   },
+   "intro": {
+    "type": "text",
+    "text": "Lab life…"
+   },
+   "question": {
+    "type": "text",
+    "text": "How much do you love lab practicals? 🧪"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Slide to answer ↓"
+   },
+   "a_head": {
+    "type": "text",
+    "text": "You said…"
+   },
+   "box_label": {
+    "type": "text",
+    "text": "SLIDER RESULTS"
+   },
+   "closing": {
+    "type": "text",
+    "text": "See you in the lab! 🥼"
+   }
+  }
+ },
+ {
+  "n": 73,
+  "cid": "D13",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_073_D13_RX_SYMBOL",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #D13"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "It's one of the oldest symbols still used in healthcare."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: Merriam-Webster; history of pharmacy"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #D13"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Latin 'recipe'"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "'Rx' comes from the Latin word 'recipe', meaning 'take'. It was written at the start of prescriptions as an instruction to the pharmacist."
+   },
+   "question": {
+    "type": "text",
+    "text": "Where does the 'Rx' symbol on prescriptions come from?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Latin 'recipe' (take)"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "'Prescription X'"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "'Pharmacy Express'"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 74,
+  "cid": "D14",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_074_D14_BOWL_OF_HYGIEIA",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "GUESS THE ANSWER  ·  #D14"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Medicine uses a different symbol: a rod with a single snake (Rod of Asclepius)."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: FIP; American Pharmacists Association"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #D14"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Pharmacy"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "The Bowl of Hygieia is the international symbol of pharmacy. Hygieia was the Greek goddess of health."
+   },
+   "question": {
+    "type": "text",
+    "text": "The Bowl of Hygieia (bowl + snake) is the symbol of…"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Pharmacy"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Law"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Engineering"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 75,
+  "cid": "D15",
+  "master": "M5",
+  "design_id": "DAHaENfCV2w",
+  "title": "PSA_STORY_075_D15_FUNNIEST_LAB_MOMENT",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "COMMUNITY TALK  ·  #D15"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "PSA TIP"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Safety first: goggles on, hair tied back, no food in the lab."
+   },
+   "source": {
+    "type": "text",
+    "text": "PSA UniMAIWP"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "YOUR ANSWERS  ·  #D15"
+   },
+   "intro": {
+    "type": "text",
+    "text": "Story time…"
+   },
+   "question": {
+    "type": "text",
+    "text": "What's your funniest lab moment? 😂"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Drop it in the box below ↓"
+   },
+   "a_head": {
+    "type": "text",
+    "text": "You said…"
+   },
+   "box_label": {
+    "type": "text",
+    "text": "TOP ANSWERS FROM OUR COMMUNITY"
+   },
+   "closing": {
+    "type": "text",
+    "text": "Thanks for sharing! 💬"
+   }
+  }
+ },
+ {
+  "n": 76,
+  "cid": "D16",
+  "master": "M5",
+  "design_id": "DAHaENfCV2w",
+  "title": "PSA_STORY_076_D16_COFFEE_OR_TEH_TARIK",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "COMMUNITY POLL  ·  #D16"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "DID YOU KNOW?"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Up to ~400 mg caffeine a day (about 4 cups of brewed coffee) is generally safe for most healthy adults."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: US FDA – How much caffeine is too much?"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "RESULTS  ·  #D16"
+   },
+   "intro": {
+    "type": "text",
+    "text": "Study fuel…"
+   },
+   "question": {
+    "type": "text",
+    "text": "Coffee ☕ or teh tarik 🧋?"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Vote below ↓"
+   },
+   "a_head": {
+    "type": "text",
+    "text": "The results are in…"
+   },
+   "box_label": {
+    "type": "text",
+    "text": "POLL RESULTS"
+   },
+   "closing": {
+    "type": "text",
+    "text": "Thanks for voting! 🗳️"
+   }
+  }
+ },
+ {
+  "n": 77,
+  "cid": "D17",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_077_D17_WORLD_PHARMACISTS_DAY",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #D17"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "7 April is World Health Day; 1 December is World AIDS Day."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: FIP – World Pharmacists Day"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #D17"
+   },
+   "answer": {
+    "type": "text",
+    "text": "25 September"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "World Pharmacists Day is celebrated every 25 September. It was started by the International Pharmaceutical Federation (FIP)."
+   },
+   "question": {
+    "type": "text",
+    "text": "When is World Pharmacists Day?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "25 September"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "7 April"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "1 December"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 78,
+  "cid": "D18",
+  "master": "M5",
+  "design_id": "DAHaENfCV2w",
+  "title": "PSA_STORY_078_D18_NEXT_PSA_EVENT",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "COMMUNITY TALK  ·  #D18"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "PSA"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Together We Grow! Beyond the Classroom."
+   },
+   "source": {
+    "type": "text",
+    "text": "PSA UniMAIWP"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "YOUR ANSWERS  ·  #D18"
+   },
+   "intro": {
+    "type": "text",
+    "text": "Your PSA, your ideas…"
+   },
+   "question": {
+    "type": "text",
+    "text": "Which PSA event do you want next? 🎉"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Drop it in the box below ↓"
+   },
+   "a_head": {
+    "type": "text",
+    "text": "You said…"
+   },
+   "box_label": {
+    "type": "text",
+    "text": "TOP IDEAS FROM OUR COMMUNITY"
+   },
+   "closing": {
+    "type": "text",
+    "text": "Thanks for sharing! 💬"
+   }
+  }
+ },
+ {
+  "n": 79,
+  "cid": "D19",
+  "master": "M5",
+  "design_id": "DAHaENfCV2w",
+  "title": "PSA_STORY_079_D19_FLASHCARDS_OR_MINDMAPS",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "THIS OR THAT  ·  #D19"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "PSA TIP"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Testing yourself (active recall) helps you remember more than re-reading notes."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: Roediger & Karpicke (2006)"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "RESULTS  ·  #D19"
+   },
+   "intro": {
+    "type": "text",
+    "text": "Study style…"
+   },
+   "question": {
+    "type": "text",
+    "text": "Flashcards or mind maps? 🗂️"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Vote below ↓"
+   },
+   "a_head": {
+    "type": "text",
+    "text": "The results are in…"
+   },
+   "box_label": {
+    "type": "text",
+    "text": "POLL RESULTS"
+   },
+   "closing": {
+    "type": "text",
+    "text": "Thanks for voting! 🗳️"
+   }
+  }
+ },
+ {
+  "n": 80,
+  "cid": "D20",
+  "master": "M5",
+  "design_id": "DAHaENfCV2w",
+  "title": "PSA_STORY_080_D20_PHARMNIGHT_HYPE",
+  "folder": "FAHaEUqlq8w",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "EMOJI SLIDER  ·  #D20"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "STAY TUNED"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Official Pharm Night details will be announced by PSA."
+   },
+   "source": {
+    "type": "text",
+    "text": "PSA UniMAIWP"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "RESULTS  ·  #D20"
+   },
+   "intro": {
+    "type": "text",
+    "text": "Hype check…"
+   },
+   "question": {
+    "type": "text",
+    "text": "How excited are you for Pharm Night? ✨"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Slide to answer ↓"
+   },
+   "a_head": {
+    "type": "text",
+    "text": "You said…"
+   },
+   "box_label": {
+    "type": "text",
+    "text": "SLIDER RESULTS"
+   },
+   "closing": {
+    "type": "text",
+    "text": "See you there! ✨"
+   }
+  }
+ },
+ {
+  "n": 82,
+  "cid": "E02",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_082_E02_DENGUE_MOSQUITO",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #E02"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Empty, cover or scrub water containers at least once a week to stop Aedes breeding."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: WHO – Dengue; MOH Malaysia – iDengue"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #E02"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Aedes"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Dengue is spread mainly by Aedes mosquitoes, which bite during the day and breed in clean, still water."
+   },
+   "question": {
+    "type": "text",
+    "text": "Which mosquito spreads dengue?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Aedes"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Anopheles"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Culex"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 83,
+  "cid": "E03",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_083_E03_DENGUE_ANTIBIOTICS",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "TRUE OR FALSE  ·  #E03"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Avoid NSAIDs like ibuprofen and aspirin in dengue (bleeding risk). See a doctor early."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: WHO – Dengue and severe dengue"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #E03"
+   },
+   "answer": {
+    "type": "text",
+    "text": "FALSE."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Dengue is caused by a virus, so antibiotics don't work. Treatment focuses on fluids, rest and close monitoring for warning signs."
+   },
+   "h1": {
+    "type": "text",
+    "text": "TRUE"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FALSE?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Dengue can be cured with antibiotics.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "True or false? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 84,
+  "cid": "E04",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_084_E04_SILENT_KILLER",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #E04"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Many community pharmacies offer blood pressure checks."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: WHO – Hypertension"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #E04"
+   },
+   "answer": {
+    "type": "text",
+    "text": "No symptoms"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Many people with high blood pressure feel completely fine, yet it raises the risk of heart attack, stroke and kidney disease. Regular checks are the only way to know."
+   },
+   "question": {
+    "type": "text",
+    "text": "High blood pressure is called a 'silent killer' because…"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "It often has no symptoms"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "It makes no sound"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "It only happens at night"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 85,
+  "cid": "E05",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_085_E05_SILENT_DIABETES",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "YES OR NO  ·  #E05"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Malaysia's NHMS 2019 found about 1 in 5 adults had diabetes."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: WHO – Diabetes; MOH Malaysia – NHMS 2019"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #E05"
+   },
+   "answer": {
+    "type": "text",
+    "text": "YES."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Type 2 diabetes can develop slowly with mild or no symptoms, so many people don't know they have it. Screening helps detect it early."
+   },
+   "h1": {
+    "type": "text",
+    "text": "YES"
+   },
+   "h2": {
+    "type": "text",
+    "text": "NO?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Can someone have type 2 diabetes without noticing any symptoms?”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Yes or no? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 86,
+  "cid": "E06",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_086_E06_VAPING_HARMLESS",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #E06"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Malaysia regulates smoking and vape products under the Control of Smoking Products for Public Health Act 2024."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: WHO – E-cigarettes; MOH Malaysia"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #E06"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a MYTH."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "E-cigarettes expose users to nicotine and other chemicals. Nicotine is highly addictive and can harm the developing brain in young people."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Vaping is completely harmless.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 87,
+  "cid": "E07",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_087_E07_EXERCISE_MINUTES",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #E07"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "That's about 30 minutes, 5 days a week."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: WHO – Physical activity guidelines (2020)"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #E07"
+   },
+   "answer": {
+    "type": "text",
+    "text": "150 minutes"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "WHO recommends at least 150–300 minutes of moderate activity a week (like brisk walking), or 75–150 minutes of vigorous activity."
+   },
+   "question": {
+    "type": "text",
+    "text": "WHO: adults should do at least how many minutes of moderate activity a week?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "30"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "150"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "600"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "B"
+   }
+  }
+ },
+ {
+  "n": 88,
+  "cid": "E08",
+  "master": "M4",
+  "design_id": "DAHaEGZC2xk",
+  "title": "PSA_STORY_088_E08_AMR_TOP_THREAT",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "FILL THE BLANK  ·  #E08"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Using antibiotics only when prescribed helps protect them for everyone."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: WHO – Antimicrobial resistance"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #E08"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Top 10"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Antimicrobial resistance (AMR) happens when germs stop responding to medicines, making infections harder to treat."
+   },
+   "h1": {
+    "type": "text",
+    "text": "FILL THE\nBLANK"
+   },
+   "statement": {
+    "type": "text",
+    "text": "WHO lists antimicrobial resistance as one of the top ___ global health threats."
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Type your answer below ↓"
+   }
+  }
+ },
+ {
+  "n": 89,
+  "cid": "E09",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_089_E09_COUGH_ETIQUETTE",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #E09"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Bin the tissue straight away and clean your hands."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: WHO; NHS – Catch it, bin it, kill it"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #E09"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Tissue or elbow"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Covering coughs with a tissue or your elbow stops droplets spreading to others and onto your hands."
+   },
+   "question": {
+    "type": "text",
+    "text": "When you cough or sneeze, it's best to…"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Use a tissue or elbow"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Use your bare hands"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Cough into the air"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 90,
+  "cid": "E10",
+  "master": "M4",
+  "design_id": "DAHaEGZC2xk",
+  "title": "PSA_STORY_090_E10_FREE_SUGARS",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "WEEKEND PHARMACY QUIZ"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "FILL THE BLANK  ·  #E10"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Sweet drinks are one of the biggest sources of free sugar."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: WHO – Sugars intake guideline (2015)"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #E10"
+   },
+   "answer": {
+    "type": "text",
+    "text": "10% (ideally 5%)"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Free sugars include sugar added to food and drinks, plus sugar in honey, syrups and fruit juices. Too much is linked to weight gain and tooth decay."
+   },
+   "h1": {
+    "type": "text",
+    "text": "FILL THE\nBLANK"
+   },
+   "statement": {
+    "type": "text",
+    "text": "WHO advises keeping free sugars below ___% of your daily energy intake."
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Type your answer below ↓"
+   }
+  }
+ },
+ {
+  "n": 91,
+  "cid": "E11",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_091_E11_SMOKING_RISKS",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "TRUE OR FALSE  ·  #E11"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Quitting at any age brings health benefits. Ask a pharmacist about quit-smoking support."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: WHO – Tobacco"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #E11"
+   },
+   "answer": {
+    "type": "text",
+    "text": "TRUE."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Smoking raises the risk of heart disease, stroke, many cancers and gum disease, not just lung disease."
+   },
+   "h1": {
+    "type": "text",
+    "text": "TRUE"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FALSE?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Smoking harms more than just the lungs.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "True or false? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 92,
+  "cid": "E12",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_092_E12_HPV_VACCINE",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #E12"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Malaysia offers the HPV vaccine through its school immunisation programme."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: WHO – Cervical cancer; MOH Malaysia"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #E12"
+   },
+   "answer": {
+    "type": "text",
+    "text": "HPV vaccine"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "The HPV vaccine protects against the human papillomavirus types that cause most cervical cancers."
+   },
+   "question": {
+    "type": "text",
+    "text": "Which vaccine helps prevent cervical cancer?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "HPV vaccine"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Flu vaccine"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "BCG vaccine"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 93,
+  "cid": "E13",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_093_E13_FLU_BEFORE_SYMPTOMS",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "MYTH OR FACT  ·  #E13"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Good hand hygiene and covering coughs help protect others all year round."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: CDC – How flu spreads"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #E13"
+   },
+   "answer": {
+    "type": "text",
+    "text": "It's a FACT."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "People with flu can be infectious from about a day before symptoms start."
+   },
+   "h1": {
+    "type": "text",
+    "text": "MYTH"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FACT?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“You can spread flu before you even feel sick.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "What do you think? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 94,
+  "cid": "E14",
+  "master": "M4",
+  "design_id": "DAHaEGZC2xk",
+  "title": "PSA_STORY_094_E14_RABIES_WOUND_WASH",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "FILL THE BLANK  ·  #E14"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Rabies is almost always fatal once symptoms appear, but it is preventable with timely treatment."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: WHO – Rabies"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #E14"
+   },
+   "answer": {
+    "type": "text",
+    "text": "15 minutes"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "WHO advises immediately washing the wound with soap and water for about 15 minutes, then seeking medical care straight away."
+   },
+   "h1": {
+    "type": "text",
+    "text": "FILL THE\nBLANK"
+   },
+   "statement": {
+    "type": "text",
+    "text": "Bitten by an animal that may have rabies? Wash the wound with soap & water for ___ minutes."
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Type your answer below ↓"
+   }
+  }
+ },
+ {
+  "n": 95,
+  "cid": "E15",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_095_E15_LEPTOSPIROSIS",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #E15"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Avoid swimming in floodwater or untreated water, and cover cuts."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: WHO – Leptospirosis; MOH Malaysia"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #E15"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Water / soil"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Leptospirosis bacteria spread through water or soil contaminated by urine from infected animals, especially rats."
+   },
+   "question": {
+    "type": "text",
+    "text": "Leptospirosis is mainly spread through…"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Contaminated water/soil"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Coughing"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Mosquito bites"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 96,
+  "cid": "E16",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_096_E16_MENTAL_PHYSICAL_HEALTH",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "YES OR NO  ·  #E16"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Talking to someone you trust or your university's counselling service is a good first step."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: WHO – Mental health"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #E16"
+   },
+   "answer": {
+    "type": "text",
+    "text": "YES."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Mental and physical health are closely linked. Stress, anxiety and depression can affect sleep, appetite, energy and long-term health."
+   },
+   "h1": {
+    "type": "text",
+    "text": "YES"
+   },
+   "h2": {
+    "type": "text",
+    "text": "NO?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Can your mental health affect your physical health?”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Yes or no? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 97,
+  "cid": "E17",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_097_E17_STROKE_SIGNS",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #E17"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Fast treatment can reduce brain damage."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: NHS – Stroke symptoms"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #E17"
+   },
+   "answer": {
+    "type": "text",
+    "text": "Face drooping"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Remember FAST: Face drooping, Arm weakness, Speech difficulty, Time to call emergency services (999 in Malaysia)."
+   },
+   "question": {
+    "type": "text",
+    "text": "Which is a warning sign of stroke?"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "Face drooping"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "Itchy skin"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "Hiccups"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "A"
+   }
+  }
+ },
+ {
+  "n": 98,
+  "cid": "E18",
+  "master": "M3",
+  "design_id": "DAHaECqbD4c",
+  "title": "PSA_STORY_098_E18_SALT_INTAKE",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "TRUE OR FALSE  ·  #E18"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Sauces, instant noodles and processed foods are major hidden salt sources."
+   },
+   "source": {
+    "type": "text",
+    "text": "Sources: MOH Malaysia – MyCoSS; WHO"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #E18"
+   },
+   "answer": {
+    "type": "text",
+    "text": "TRUE."
+   },
+   "explanation": {
+    "type": "text",
+    "text": "A national survey found Malaysian adults eat about 8 g of salt a day on average, well above WHO's limit of less than 5 g (about 1 teaspoon)."
+   },
+   "h1": {
+    "type": "text",
+    "text": "TRUE"
+   },
+   "h2": {
+    "type": "text",
+    "text": "FALSE?"
+   },
+   "statement": {
+    "type": "text",
+    "text": "“Most Malaysian adults eat more salt than WHO recommends.”"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "True or false? Vote below ↓"
+   }
+  }
+ },
+ {
+  "n": 99,
+  "cid": "E19",
+  "master": "M1",
+  "design_id": "DAHaEBS38Xw",
+  "title": "PSA_STORY_099_E19_TB_TREATMENT",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "QUICK PHARMA QUIZ  ·  #E19"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "BONUS FACT"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "TB is preventable and curable."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: WHO – Tuberculosis"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "ANSWER REVEAL  ·  #E19"
+   },
+   "answer": {
+    "type": "text",
+    "text": "6 months"
+   },
+   "explanation": {
+    "type": "text",
+    "text": "Standard TB treatment uses a combination of medicines for about 6 months. Completing the full course is essential to cure TB and prevent resistance."
+   },
+   "question": {
+    "type": "text",
+    "text": "Standard treatment for drug-sensitive TB usually lasts at least…"
+   },
+   "opt_a": {
+    "type": "text",
+    "text": "1 week"
+   },
+   "opt_b": {
+    "type": "text",
+    "text": "1 month"
+   },
+   "opt_c": {
+    "type": "text",
+    "text": "6 months"
+   },
+   "ans_letter": {
+    "type": "text",
+    "text": "C"
+   }
+  }
+ },
+ {
+  "n": 100,
+  "cid": "E20",
+  "master": "M5",
+  "design_id": "DAHaENfCV2w",
+  "title": "PSA_STORY_100_E20_NUTRITION_LABELS",
+  "folder": "FAHaET72Fxk",
+  "data": {
+   "q_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "a_series": {
+    "type": "text",
+    "text": "MIDWEEK BRAIN CHECK"
+   },
+   "q_label": {
+    "type": "text",
+    "text": "EMOJI SLIDER  ·  #E20"
+   },
+   "bonus_label": {
+    "type": "text",
+    "text": "PSA TIP"
+   },
+   "bonus": {
+    "type": "text",
+    "text": "Compare products using the 'per 100 g' column, and look for Malaysia's Healthier Choice Logo."
+   },
+   "source": {
+    "type": "text",
+    "text": "Source: MOH Malaysia – Healthier Choice Logo"
+   },
+   "a_label": {
+    "type": "text",
+    "text": "RESULTS  ·  #E20"
+   },
+   "intro": {
+    "type": "text",
+    "text": "Food label check…"
+   },
+   "question": {
+    "type": "text",
+    "text": "How confident are you at reading nutrition labels? 🥗"
+   },
+   "prompt": {
+    "type": "text",
+    "text": "Slide to answer ↓"
+   },
+   "a_head": {
+    "type": "text",
+    "text": "You said…"
+   },
+   "box_label": {
+    "type": "text",
+    "text": "SLIDER RESULTS"
+   },
+   "closing": {
+    "type": "text",
+    "text": "Eat smart! 🥗"
+   }
+  }
+ }
+]
